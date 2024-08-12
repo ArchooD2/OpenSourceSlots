@@ -26,4 +26,4 @@ No installation is required. You can run the script directly with Python.
 To run the slot machine game, simply execute the Python script:
 
 ```bash
-python slot_machine.py
+python slots.py
